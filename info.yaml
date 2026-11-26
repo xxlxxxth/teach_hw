@@ -19,6 +19,7 @@ project:
   source_files:
     - "hsync_generator.v"
     #- 1. Display image
+    
     - "JapanFlag.v"
     # 2. Text mode
     #- "19_top_SwitchTextDisplay_playground.v"
