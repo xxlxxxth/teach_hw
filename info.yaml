@@ -20,7 +20,6 @@ project:
     - "hsync_generator.v"
     #- 1. Display image
     - "JapanFlag.v"
-    -"whack_a_mole.v"
     # 2. Text mode
     #- "19_top_SwitchTextDisplay_playground.v"
     #- "19_text_screen_gen_playground.v"
